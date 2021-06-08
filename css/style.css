@@ -294,7 +294,14 @@ section h3{
         height: 0;
     }
     .kirim h3{
-        font-size: 12px;padding-left: 95px;
+        font-size: 12px;
+        padding-left: 95px;
+    }
+    .mahasiswa td{
+        font-size: 12px;
+    }
+    .mahasiswa th{
+        font-size: 12px;
     }
     .content{
         width: 90%;
